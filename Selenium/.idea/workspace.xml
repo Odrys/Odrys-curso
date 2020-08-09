@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Practico6" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:practico4" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Practico5" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Practico6" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:practico4" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a8cd3e5-57ed-4220-955c-dc9435eb9c79" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1fbXj2eJy79dB8tIVAdc0rqjg4w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/utilities" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="java" />
+      <recent name="utilities" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Odrys\Documents\Odrys-curso\Selenium\src\utilities" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Odrys\Documents\Odrys-curso\Selenium\src\test\java" />
+      <recent name="C:\Users\Odrys\Documents\Odrys-curso\Selenium\src\utilities" />
+      <recent name="C:\Users\Odrys\Documents\Odrys-curso\Selenium\src\test" />
+      <recent name="C:\Users\Odrys\Documents\Odrys-curso\Selenium\src\test\utilities" />
+      <recent name="C:\Users\Odrys\Documents\Odrys-curso\Selenium\drivers" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="testSelenium1.primerTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="testSelenium1" />
+      <option name="METHOD_NAME" value="primerTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.testSelenium1.primerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a8cd3e5-57ed-4220-955c-dc9435eb9c79" name="Default Changelist" comment="" />
+      <created>1596487897907</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596487897907</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="444" y="43" key="#Intentions" timestamp="1596563285487">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="444" y="43" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1596563285487" />
+    <state x="772" y="335" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1596663429727">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="772" y="335" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1596663429727" />
+    <state width="812" height="172" key="GridCell.Tab.0.bottom" timestamp="1596665925107">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="812" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596665925107" />
+    <state width="812" height="172" key="GridCell.Tab.0.center" timestamp="1596665925107">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="812" height="172" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596665925107" />
+    <state width="812" height="172" key="GridCell.Tab.0.left" timestamp="1596665925107">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="812" height="172" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596665925107" />
+    <state width="812" height="172" key="GridCell.Tab.0.right" timestamp="1596665925107">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="812" height="172" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596665925107" />
+    <state x="357" y="110" key="IDE.errors.dialog" timestamp="1596562864479">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="357" y="110" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1596562864479" />
+    <state x="634" y="176" key="chooseDestDirectoryDialog" timestamp="1596661330502">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="634" y="176" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1596661330502" />
+  </component>
+</project>
