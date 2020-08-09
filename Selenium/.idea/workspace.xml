@@ -98,7 +98,25 @@
       <recent name="C:\Users\Odrys\Documents\Odrys-curso\Selenium\drivers" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.practico_9.ej3">
+    <configuration name="practico_9.ej3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practico9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practico9" />
+      <option name="MAIN_CLASS_NAME" value="practico9.practico_9" />
+      <option name="METHOD_NAME" value="ej3" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="testSelenium1.primerTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
       <option name="PACKAGE_NAME" value="" />
@@ -113,6 +131,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.practico_9.ej3" />
         <item itemvalue="TestNG.testSelenium1.primerTest" />
       </list>
     </recent_temporary>
@@ -140,6 +159,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="444" y="43" key="#Intentions" timestamp="1596563285487">
@@ -150,22 +170,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="772" y="335" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1596663429727" />
-    <state width="812" height="172" key="GridCell.Tab.0.bottom" timestamp="1596665925107">
+    <state width="1323" height="307" key="GridCell.Tab.0.bottom" timestamp="1596935124465">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="812" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596665925107" />
-    <state width="812" height="172" key="GridCell.Tab.0.center" timestamp="1596665925107">
+    <state width="1323" height="307" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596935124465" />
+    <state width="1323" height="307" key="GridCell.Tab.0.center" timestamp="1596935124465">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="812" height="172" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596665925107" />
-    <state width="812" height="172" key="GridCell.Tab.0.left" timestamp="1596665925107">
+    <state width="1323" height="307" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596935124465" />
+    <state width="1323" height="307" key="GridCell.Tab.0.left" timestamp="1596935124465">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="812" height="172" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596665925107" />
-    <state width="812" height="172" key="GridCell.Tab.0.right" timestamp="1596665925107">
+    <state width="1323" height="307" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596935124465" />
+    <state width="1323" height="307" key="GridCell.Tab.0.right" timestamp="1596935124465">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="812" height="172" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596665925107" />
+    <state width="1323" height="307" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596935124465" />
     <state x="357" y="110" key="IDE.errors.dialog" timestamp="1596562864479">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
