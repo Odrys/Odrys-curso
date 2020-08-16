@@ -98,7 +98,25 @@
       <recent name="C:\Users\Odrys\Documents\Odrys-curso\Selenium\drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.practico_9.ej3">
+  <component name="RunManager" selected="TestNG.practico10.comboBoxTestOnFacebook">
+    <configuration name="practico10.comboBoxTestOnFacebook" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practico_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practico_10" />
+      <option name="MAIN_CLASS_NAME" value="practico_10.practico10" />
+      <option name="METHOD_NAME" value="comboBoxTestOnFacebook" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="practico_9.ej3" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
       <extension name="coverage">
@@ -131,6 +149,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.practico10.comboBoxTestOnFacebook" />
         <item itemvalue="TestNG.practico_9.ej3" />
         <item itemvalue="TestNG.testSelenium1.primerTest" />
       </list>
@@ -170,22 +189,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="772" y="335" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1596663429727" />
-    <state width="1323" height="307" key="GridCell.Tab.0.bottom" timestamp="1596935124465">
+    <state width="1323" height="37" key="GridCell.Tab.0.bottom" timestamp="1596950894436">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="307" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596935124465" />
-    <state width="1323" height="307" key="GridCell.Tab.0.center" timestamp="1596935124465">
+    <state width="1323" height="37" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596950894436" />
+    <state width="1323" height="37" key="GridCell.Tab.0.center" timestamp="1596950894436">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="307" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596935124465" />
-    <state width="1323" height="307" key="GridCell.Tab.0.left" timestamp="1596935124465">
+    <state width="1323" height="37" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596950894436" />
+    <state width="1323" height="37" key="GridCell.Tab.0.left" timestamp="1596950894436">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="307" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596935124465" />
-    <state width="1323" height="307" key="GridCell.Tab.0.right" timestamp="1596935124465">
+    <state width="1323" height="37" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596950894436" />
+    <state width="1323" height="37" key="GridCell.Tab.0.right" timestamp="1596950894436">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="307" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596935124465" />
+    <state width="1323" height="37" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596950894436" />
     <state x="357" y="110" key="IDE.errors.dialog" timestamp="1596562864479">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
