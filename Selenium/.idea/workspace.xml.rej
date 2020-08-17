@@ -1,0 +1,48 @@
+diff a/Selenium/.idea/workspace.xml b/Selenium/.idea/workspace.xml	(rejected hunks)
+@@ -189,22 +189,38 @@
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
+     <state x="772" y="335" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1596663429727" />
+-    <state width="1323" height="37" key="GridCell.Tab.0.bottom" timestamp="1596950894436">
++    <state width="1323" height="134" key="GridCell.Tab.0.bottom" timestamp="1597630336559">
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
+-    <state width="1323" height="37" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596950894436" />
+-    <state width="1323" height="37" key="GridCell.Tab.0.center" timestamp="1596950894436">
++    <state width="1323" height="134" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597630336559" />
++    <state width="1323" height="134" key="GridCell.Tab.0.center" timestamp="1597630336559">
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
+-    <state width="1323" height="37" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596950894436" />
+-    <state width="1323" height="37" key="GridCell.Tab.0.left" timestamp="1596950894436">
++    <state width="1323" height="134" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597630336559" />
++    <state width="1323" height="134" key="GridCell.Tab.0.left" timestamp="1597630336558">
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
+-    <state width="1323" height="37" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596950894436" />
+-    <state width="1323" height="37" key="GridCell.Tab.0.right" timestamp="1596950894436">
++    <state width="1323" height="134" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597630336558" />
++    <state width="1323" height="134" key="GridCell.Tab.0.right" timestamp="1597630336559">
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
+-    <state width="1323" height="37" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596950894436" />
++    <state width="1323" height="134" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597630336559" />
++    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1597630336536">
++      <screen x="0" y="0" width="1366" height="728" />
++    </state>
++    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597630336536" />
++    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1597630336536">
++      <screen x="0" y="0" width="1366" height="728" />
++    </state>
++    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1597630336536" />
++    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1597630336536">
++      <screen x="0" y="0" width="1366" height="728" />
++    </state>
++    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1597630336536" />
++    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1597630336536">
++      <screen x="0" y="0" width="1366" height="728" />
++    </state>
++    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1597630336536" />
+     <state x="357" y="110" key="IDE.errors.dialog" timestamp="1596562864479">
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
