@@ -98,18 +98,18 @@
       <recent name="C:\Users\Odrys\Documents\Odrys-curso\Selenium\drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.practico_9.ej3">
-    <configuration name="practico_9.ej3" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.PracticoResuelto_11.GmailWithPath">
+    <configuration name="PracticoResuelto_11.GamilWithPath" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practico9.*" />
+          <option name="PATTERN" value="practico_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="practico9" />
-      <option name="MAIN_CLASS_NAME" value="practico9.practico_9" />
-      <option name="METHOD_NAME" value="ej3" />
+      <option name="PACKAGE_NAME" value="practico_11" />
+      <option name="MAIN_CLASS_NAME" value="practico_11.PracticoResuelto_11" />
+      <option name="METHOD_NAME" value="GamilWithPath" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -117,11 +117,71 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testSelenium1.primerTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PracticoResuelto_11.GmailWithPath" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="testSelenium1" />
-      <option name="METHOD_NAME" value="primerTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practico_11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practico_11" />
+      <option name="MAIN_CLASS_NAME" value="practico_11.PracticoResuelto_11" />
+      <option name="METHOD_NAME" value="GmailWithPath" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticoResuelto_11.spotifyByName" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practico_11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practico_11" />
+      <option name="MAIN_CLASS_NAME" value="practico_11.PracticoResuelto_11" />
+      <option name="METHOD_NAME" value="spotifyByName" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticoResuelto_11.spotifyByNameCss" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practico_11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practico_11" />
+      <option name="MAIN_CLASS_NAME" value="practico_11.PracticoResuelto_11" />
+      <option name="METHOD_NAME" value="spotifyByNameCss" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="docusing_test.defaultxPath" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practico_11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practico_11" />
+      <option name="MAIN_CLASS_NAME" value="practico_11.docusing_test" />
+      <option name="METHOD_NAME" value="defaultxPath" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -131,8 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.practico_9.ej3" />
-        <item itemvalue="TestNG.testSelenium1.primerTest" />
+        <item itemvalue="TestNG.PracticoResuelto_11.GmailWithPath" />
+        <item itemvalue="TestNG.PracticoResuelto_11.GamilWithPath" />
+        <item itemvalue="TestNG.PracticoResuelto_11.spotifyByNameCss" />
+        <item itemvalue="TestNG.PracticoResuelto_11.spotifyByName" />
+        <item itemvalue="TestNG.docusing_test.defaultxPath" />
       </list>
     </recent_temporary>
   </component>
@@ -166,26 +229,46 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="444" y="43" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1596563285487" />
+    <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1597596769772">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1597596769772" />
     <state x="772" y="335" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1596663429727">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="772" y="335" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1596663429727" />
-    <state width="1323" height="307" key="GridCell.Tab.0.bottom" timestamp="1596935124465">
+    <state width="1323" height="134" key="GridCell.Tab.0.bottom" timestamp="1597628660277">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="307" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596935124465" />
-    <state width="1323" height="307" key="GridCell.Tab.0.center" timestamp="1596935124465">
+    <state width="1323" height="134" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597628660277" />
+    <state width="1323" height="134" key="GridCell.Tab.0.center" timestamp="1597628660276">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="307" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596935124465" />
-    <state width="1323" height="307" key="GridCell.Tab.0.left" timestamp="1596935124465">
+    <state width="1323" height="134" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597628660276" />
+    <state width="1323" height="134" key="GridCell.Tab.0.left" timestamp="1597628660276">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="307" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596935124465" />
-    <state width="1323" height="307" key="GridCell.Tab.0.right" timestamp="1596935124465">
+    <state width="1323" height="134" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597628660276" />
+    <state width="1323" height="134" key="GridCell.Tab.0.right" timestamp="1597628660276">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="307" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596935124465" />
+    <state width="1323" height="134" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597628660276" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1597624358959">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597624358959" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1597624358958">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1597624358958" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1597624358958">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1597624358958" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1597624358959">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1597624358959" />
     <state x="357" y="110" key="IDE.errors.dialog" timestamp="1596562864479">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
