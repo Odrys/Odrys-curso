@@ -1,0 +1,10 @@
+<suite name = "Practico 12--Test">
+    <test name = "Ejercicios">
+        <classes>
+            <parameter name = "color" value ="amarillo"></parameter>
+            <parameter name = "tag_name" value ="h2"></parameter>
+            <class name = "practico12.Ejercicios_12"/>
+           <!--class name = "practico12.tngNotation"/-->
+        </classes>
+            </test>
+</suite>

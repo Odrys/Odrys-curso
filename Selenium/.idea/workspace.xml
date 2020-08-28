@@ -98,18 +98,45 @@
       <recent name="C:\Users\Odrys\Documents\Odrys-curso\Selenium\drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.practico_9.ej3">
-    <configuration name="practico_9.ej3" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C:/Users/Odrys/Documents/Odrys-curso/Selenium/src/test/java/practico12/tng.xml">
+    <configuration name="C:/Users/Odrys/Documents/Odrys-curso/Selenium/src/test/java/practico12/tng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/practico12/tng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicios_12" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practico9.*" />
+          <option name="PATTERN" value="practico12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="practico9" />
-      <option name="MAIN_CLASS_NAME" value="practico9.practico_9" />
-      <option name="METHOD_NAME" value="ej3" />
+      <option name="PACKAGE_NAME" value="practico12" />
+      <option name="MAIN_CLASS_NAME" value="practico12.Ejercicios_12" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicios_12.printHs" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practico12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practico12" />
+      <option name="MAIN_CLASS_NAME" value="practico12.Ejercicios_12" />
+      <option name="METHOD_NAME" value="printHs" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -117,10 +144,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testSelenium1.primerTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Ejercicios_12.verifyTitle" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="testSelenium1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practico12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practico12" />
+      <option name="MAIN_CLASS_NAME" value="practico12.Ejercicios_12" />
+      <option name="METHOD_NAME" value="verifyTitle" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tngNotation.primerTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practico12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practico12" />
+      <option name="MAIN_CLASS_NAME" value="practico12.tngNotation" />
       <option name="METHOD_NAME" value="primerTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -131,8 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.practico_9.ej3" />
-        <item itemvalue="TestNG.testSelenium1.primerTest" />
+        <item itemvalue="TestNG.C:/Users/Odrys/Documents/Odrys-curso/Selenium/src/test/java/practico12/tng.xml" />
+        <item itemvalue="TestNG.Ejercicios_12.printHs" />
+        <item itemvalue="TestNG.tngNotation.primerTest" />
+        <item itemvalue="TestNG.Ejercicios_12" />
+        <item itemvalue="TestNG.Ejercicios_12.verifyTitle" />
       </list>
     </recent_temporary>
   </component>
@@ -170,22 +224,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="772" y="335" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1596663429727" />
-    <state width="1323" height="307" key="GridCell.Tab.0.bottom" timestamp="1596935124465">
+    <state width="1323" height="167" key="GridCell.Tab.0.bottom" timestamp="1598652046316">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="307" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596935124465" />
-    <state width="1323" height="307" key="GridCell.Tab.0.center" timestamp="1596935124465">
+    <state width="1323" height="167" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598652046316" />
+    <state width="1323" height="167" key="GridCell.Tab.0.center" timestamp="1598652046316">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="307" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596935124465" />
-    <state width="1323" height="307" key="GridCell.Tab.0.left" timestamp="1596935124465">
+    <state width="1323" height="167" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598652046316" />
+    <state width="1323" height="167" key="GridCell.Tab.0.left" timestamp="1598652046315">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="307" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596935124465" />
-    <state width="1323" height="307" key="GridCell.Tab.0.right" timestamp="1596935124465">
+    <state width="1323" height="167" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598652046315" />
+    <state width="1323" height="167" key="GridCell.Tab.0.right" timestamp="1598652046316">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="307" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596935124465" />
+    <state width="1323" height="167" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598652046316" />
     <state x="357" y="110" key="IDE.errors.dialog" timestamp="1596562864479">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -194,5 +248,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="634" y="176" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1596661330502" />
+    <state x="293" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598550019628">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="293" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1598550019628" />
   </component>
 </project>
